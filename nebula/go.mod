@@ -8,6 +8,8 @@ require (
 	github.com/imdario/mergo v0.3.12 // indirect
 	github.com/sirupsen/logrus v1.8.1
 	github.com/slackhq/nebula v1.5.2
-	golang.org/x/crypto v0.0.0-20211202192323-5770296d904e
+	golang.org/x/crypto v0.0.0-20211215153901-e495a2d5b3d3
 	gopkg.in/yaml.v2 v2.4.0
 )
+
+replace github.com/slackhq/nebula => /Users/lakshmana/projects/nearhop/nebula
