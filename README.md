@@ -40,6 +40,12 @@ In xcode, Release -> Archive then follow the directions to upload to the app sto
 
 ## For HN
 
+
+install flutter version 2.0.5
+set flutter path "/Users/lakshmana/projects/flutter/bin" in $PATH varibale
+
+install android studio and android sdk (latest would be good)
+
 set Android sdk path below
 
 export ANDROID_HOME="/Users/lakshmana/projects/android_sdk"
