@@ -37,3 +37,13 @@ Upload the android bundle to the google play store https://play.google.com/apps/
 ## iOS
 
 In xcode, Release -> Archive then follow the directions to upload to the app store. If you have issues, https://flutter.dev/docs/deployment/ios#create-a-build-archive
+
+## For HN
+
+set Android sdk path below
+
+export ANDROID_HOME="/Users/lakshmana/projects/android_sdk"
+export ANDROID_SDK_ROOT="/Users/lakshmana/projects/android_sdk"
+
+and run ./build_script.sh from terminal
+
